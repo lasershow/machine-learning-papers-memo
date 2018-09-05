@@ -6,7 +6,8 @@ https://arxiv.org/pdf/1808.07993.pdf
 
 ## 概要
 画像と大きく異なるスケールで物体を検出することは、コンピュータビジョンの基本的な課題になっている。
-
+Feature pyramindsのためのglobal attentionとlocal reconfigulationを提案。標準的なSSDに組み込み実験を行った。その結果、マルチスケールにおける表現性を高めること
+に成功しさらに、提案手法では推定速度を失うことなく、リアルタイムで検出を可能にしている。
 ## 新規性・結果・なぜ通ったか
 ## 先行研究と比べてどこがすごい？
 ## 技術や手法のキモはどこ？
@@ -18,3 +19,14 @@ https://arxiv.org/pdf/1808.07993.pdf
 
 ## 事前知識
 ### feature pyramids
+### global attention
+### ssd
+情報の少ないSSD(Single Shot MultiBox Detector)を出来るだけ細かく解説してみる ~ VGG編 ~
+https://qiita.com/arabian9ts/items/fcf4abd7849e11995968
+
+- 並列で処理を行う
+  - conv(localization)
+  - conv(confidence)
+  - default box generator
+- その後線形で処理を行う？
+### local configuration
