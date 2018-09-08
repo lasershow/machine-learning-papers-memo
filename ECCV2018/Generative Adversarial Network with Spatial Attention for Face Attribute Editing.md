@@ -3,6 +3,8 @@ Generative Adversarial Network with Spatial Attention for Face Attribute Editing
 ### 著者
 ### 学会名/ジャーナル名
 ### 論文へのリンク
+http://openaccess.thecvf.com/content_ECCV_2018/papers/Gang_Zhang_Generative_Adversarial_Network_ECCV_2018_paper.pdf
+
 1
 
 特定指定領域のみを変更するために、空間的アテンションを組み込んだ、GAN framework (referred to as SaGAN)を提案する。Generatorが顔画像を編集するためのattribute manipulation network (AMN)とこの領域内のAMNの交替を制限する属性固有領域を局所化する空間注意ネットワーク（SAN）の2つのネットワークで構成される。
