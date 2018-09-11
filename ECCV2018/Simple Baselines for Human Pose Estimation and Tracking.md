@@ -1,0 +1,23 @@
+# 論文名
+Simple Baselines for Human Pose Estimation and Tracking
+### 著者
+### 学会名/ジャーナル名
+### 論文へのリンク
+
+-------
+
+## 概要
+Human Pose EstimationとTrackingのためのシンプルなベースラインを提案。姿勢推定はResNetに基づいて作成され、低解像度および低解像度のフィーチャマップからヒートマップを推定する最も簡単な方法を使用する。Trackingは、ICCV’17 PoseTrack Challengeの勝者と同じ、greedy matching methodを使用している。
+今後ベースラインとして、多く使用されていく予感。
+
+### 事前知識
+
+-------
+
+## 新規性・結果・なぜ通ったか
+## 先行研究と比べてどこがすごい？
+## 技術や手法のキモはどこ？
+## 議論はある？
+## 次に読むべき論文は？
+## 次の研究トレンドを作れるような問題を提案しているかどうか（e.g. Taskonomy, ImageNet）
+## デファクトスタンダードになるような手法を提案しているかどうか（e.g. ResNet, R-CNN）
