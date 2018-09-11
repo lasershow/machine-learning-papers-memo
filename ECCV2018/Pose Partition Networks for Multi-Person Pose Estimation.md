@@ -1,5 +1,5 @@
 # 論文名
-Simple Baselines for Human Pose Estimation and Tracking
+Pose Partition Networks for Multi-Person Pose Estimation
 ### 著者
 ### 学会名/ジャーナル名
 ### 論文へのリンク
