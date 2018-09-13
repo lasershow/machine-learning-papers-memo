@@ -1,6 +1,7 @@
-Image Reassembly Combining Deep Learning and Shortest Path Problem
 
 # 論文名
+Image Reassembly Combining Deep Learning and Shortest Path Problem
+
 ### 著者
 ### 学会名/ジャーナル名
 ### 論文へのリンク
