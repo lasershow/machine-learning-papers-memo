@@ -13,8 +13,9 @@ Buy It Again: Modeling Repeat Purchase Recommendations
 - deep learning base Recommendations Approaches
 
 ### アイデア
-- メルカリで、消費アイテムは売れているのか?
-日用品や化粧品をメルカリで買うという意見もある。
+- ctoc serviceで、消費アイテムは売れているのか?
+日用品や化粧品をctoc serviceで買うという意見もある。
+例:
 https://www.mercari.com/jp/box/qffd8b7abdb0937e4/
 -------
 
