@@ -18,9 +18,9 @@ Buy It Again: Modeling Repeat Purchase Recommendations
 - marketing science
 
 ### アイデア
-- メルカリで、消費アイテムは売れているのか?
-日用品や化粧品をメルカリで買うという意見もある。(まとめ買い)
-- 化粧品などから開始すると面白そう
+- ctoc serviceで、消費アイテムは売れているのか?
+日用品や化粧品をctoc serviceで買うという意見もある。
+例:
 https://www.mercari.com/jp/box/qffd8b7abdb0937e4/
 - ただアマゾンのように購入者が多ければ、モデル作成を行う意味もあるか？通常のレコメンドシステムのほうが価値が高そうに思える
 -------
