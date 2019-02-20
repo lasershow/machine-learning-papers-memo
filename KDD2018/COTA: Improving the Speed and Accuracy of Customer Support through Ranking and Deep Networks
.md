@@ -1,15 +1,14 @@
 # 論文名
 COTA: Improving the Speed and Accuracy of Customer Support through Ranking and Deep Networks
 ### 著者
+Piero Molino (Uber AI Labs) et al.
 ### 学会名/ジャーナル名
 ### 論文へのリンク
 http://www.kdd.org/kdd2018/accepted-papers/view/cota-improving-the-speed-and-accuracy-of-customer-support-through-ranking-a
 -------
 
 ## 概要
-カスタマーサポートのためのチケット分類システムとテンプレート推薦システム
-
-ユーザーの情報、お問い合わせのテキスト情報からチケットの種類分類とそれに関する返信のテンプレートの推薦を行う。
+カスタマーサポートのためのチケット分類システムとテンプレート推薦システム。ユーザーの情報、お問い合わせのテキスト情報からチケットの種類分類とそれに関する返信のテンプレートの推薦を行う。
 
 
 
